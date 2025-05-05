@@ -2,5 +2,5 @@
 
 Blogpost explaining it in action: https://blog.martinmiles.net/post/xm-cloud-productivity-tip-use-cloud-portal-auto-login-chrome-extension
 
-![Device Confirmation Screen]([files://C:/Users/jzhang/Desktop/Isolated.png](https://blog.martinmiles.net/img/2025/05/xm-cloud-productivity-tip-use-cloud-portal-auto-login-chrome-extension/confirm.png))
+![Device Confirmation Screen](https://blog.martinmiles.net/img/2025/05/xm-cloud-productivity-tip-use-cloud-portal-auto-login-chrome-extension/confirm.png)
 
