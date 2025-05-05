@@ -1,2 +1,3 @@
 # cloud-portal-auto-login
-Automates passing Device Confirmation screen and Sitecore portal login by storing email in the local storage.
+
+Blogpost explaining it in action: https://blog.martinmiles.net/post/xm-cloud-productivity-tip-use-cloud-portal-auto-login-chrome-extension
